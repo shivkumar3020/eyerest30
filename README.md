@@ -15,5 +15,5 @@ Note(on EyeRest20/EyeRest30 software):
 3. You do not need to configure anything. Everything is pre-configured.
 4. The computer will raise some flags while downloading and running it, but the file is safe. You can download and run it.
 5. If you need to manually turn off EyeRest30 software in windows, press Alt+Ctr+Del. Then, search for java. Next, right click, select ‘Java(TM) Platform SE binary’ program under the background processes, and click on ‘End Task’.
-6. You do not need to install Java or any other dependencies. You can straight away download the software and run it directly.
+6. You do not need to install any other dependencies or software. You can straight away download this software and run it directly.
 7. The software does not interferes or impact the working of any other software on your computer/laptop.

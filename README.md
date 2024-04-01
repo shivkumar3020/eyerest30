@@ -20,7 +20,8 @@ Note(on EyeRest20/EyeRest30 software):
 
 
 
-**Steps to Run **
+**Steps to Run**
+
 Download and unzip EyeRest30.zip from the releases folder on the bottom right of this page. Unzip the folder. Go to bin and run EyeRest30.exe. Click allow on any warnings.
 
 

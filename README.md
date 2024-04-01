@@ -17,3 +17,10 @@ Note(on EyeRest20/EyeRest30 software):
 5. If you need to manually turn off EyeRest30 software in windows, press Alt+Ctr+Del. Then, search for java. Next, right click, select ‘Java(TM) Platform SE binary’ program under the background processes, and click on ‘End Task’.
 6. You do not need to install any other dependencies or software. You can straight away download this software and run it directly.
 7. The software does not interferes or impact the working of any other software on your computer/laptop.
+
+
+
+**Steps to Run **
+Download and unzip EyeRest30.zip from the releases folder on the bottom right of this page. Unzip the folder. Go to bin and run EyeRest30.exe. Click allow on any warnings.
+
+

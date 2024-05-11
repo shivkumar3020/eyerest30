@@ -27,4 +27,12 @@ Note(on EyeRest20/EyeRest30 software):
 3. Go to bin and run EyeRest30.exe.
 4. Click allow on any warnings.
 
+**Steps to Automatically Run the Application each time the system is started**
+
+1. Create a shortcut of EyeRest30.exe by right clicking it and then selecting 'Send to' and clicking 'Desktop'.
+2. Go to Desktop and copy the shortcut.
+3. Now, Press 'Windows'+'R'. It will open the Startup Folder.
+4. Paste the shortcut here.
+
+   ![image](https://github.com/shivkumar3020/eyerest30/assets/165461108/7f61a518-d27c-4c13-af21-f068d7f8de2f)
 

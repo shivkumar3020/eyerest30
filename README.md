@@ -36,3 +36,8 @@ Note(on EyeRest20/EyeRest30 software):
 
    ![image](https://github.com/shivkumar3020/eyerest30/assets/165461108/7f61a518-d27c-4c13-af21-f068d7f8de2f)
 
+**Software for Digital Strain**
+This is also a software for digital strain, wherein it would help you in reducing your digital strain by giving you periodic breaks. Thereby, reducing the strain caused by long usage on computers and laptops.
+
+**Software for Dry Eyes**
+People suffering from Dry Eye would also be greatly benefitted by the tool. As it helps in keeping your eyes moist, by giving breaks to your eyes to lubricate itself after every 30 minutes interval. It also helps in reducing the stress to your eye by prolonged usage of computer and laptops.
